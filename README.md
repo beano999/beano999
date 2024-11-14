@@ -35,7 +35,7 @@ A new way to choose color palettes targeted towards developers currently in acti
 
 ### ✨ About Me:
 
-[I am a year two computer science student with a passion for frontend web development. I am still working on developing my tech stack but can pick up new tools easily. Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!]
+I am a year two computer science student with a passion for frontend web development. I am still working on developing my tech stack but can pick up new tools easily. Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
 
 ---
 
