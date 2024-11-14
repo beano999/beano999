@@ -29,7 +29,7 @@ A new way to choose color palettes targeted towards developers currently in acti
 ## 💬 Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/ben-wartman-013659299/)
-- [Discord](@beano.999)
+- Discord: @beano.999
 
 ---
 
