@@ -14,6 +14,8 @@ Hello! I'm Ben or Beano, a passionate developer working with various technologie
 - **XAMPP**
 - **Version Control**: Git, GitHub
 
+---
+
 - **Java Plug-Ins**:
 - **IDE**: IntelliJ
 - **Maven**
