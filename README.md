@@ -16,7 +16,7 @@ Hello! I'm Ben or Beano, a passionate developer working with various technologie
 
 ---
 
-- **Java Plug-Ins**:
+- **Minecraft Java Plug-Ins**:
 - **IDE**: IntelliJ
 - **Maven**
 - **Paper**
