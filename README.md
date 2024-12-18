@@ -6,9 +6,19 @@ Hello! I'm Ben or Beano, a passionate developer working with various technologie
 
 ## 🛠️ Languages & Tools:
 
+
+- **Web Development**:
 - **Frontend**: JavaScript, Vue, HTML, CSS, JSX/TSX
-- **Backend**: Node.js, Express.js (Still Learning These)
-- **Databases**: MySQL (Also Working on Learning more DBs)
+- **Backend**: Node.js, Express.js
+- **Databases**: MySQL
+- **XAMPP**
+- **Version Control**: Git, GitHub
+
+- **Java Plug-Ins**:
+- **IDE**: IntelliJ
+- **Maven**
+- **Paper**
+- **Spigot**
 - **Version Control**: Git, GitHub
 
 ---
