@@ -55,7 +55,7 @@ A new way to choose color palettes targeted towards developers currently in acti
 
 ## 📈 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beano999&show_icons=true&hide_title=true)
+[![Average's Github Stats](https://github-readme-stats.vercel.app/api?username=renderbr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
