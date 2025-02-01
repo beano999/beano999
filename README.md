@@ -46,13 +46,6 @@ Hello! I'm Ben or Beano, a passionate developer working with various technologie
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
 ---
 
-## 🔥 Repos:
-
-### [colorSwatch](https://github.com/beano999/colorSwatch)
-A new way to choose color palettes targeted towards developers currently in active development.
-
----
-
 ## 📈 GitHub Stats:
 
 [![Beano's Github Stats](https://github-readme-stats.vercel.app/api?username=beano999&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
