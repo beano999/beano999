@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm Ben or Beano, a passionate developer working with various technologies. Below you'll find information about my repositories, programming languages, and projects.
+### ✨ About Me:
+
+Hi! I'm Ben / Beano, I am a year two computer science student with a passion for frontend web development. I recently have begun writing java mods and plugins for Minecraft and am a member of the [Project ReDev](https://www.youtube.com/watch?v=QuryJC0U8cM&ab_channel=ProjectReDev) developer Team!  Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
 
 ---
 
@@ -45,23 +47,14 @@ Hello! I'm Ben or Beano, a passionate developer working with various technologie
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
 ---
-
-## 📈 GitHub Stats:
-
-[![Beano's Github Stats](https://github-readme-stats.vercel.app/api?username=beano999&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beano999&layout=donut)
+![Beano's Github Stats](https://github-readme-stats.vercel.app/api?username=beano999&theme=radical)
 ---
 
 ## 💬 Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/ben-wartman-013659299/)
 - Discord: @beano.999
-
----
-
-### ✨ About Me:
-
-I am a year two computer science student with a passion for frontend web development. I am still working on developing my tech stack but can pick up new tools easily. Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
 
 ---
 
