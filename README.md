@@ -58,5 +58,10 @@ Hi! I'm Ben / Beano, I am a year two computer science student with a passion for
 
 ---
 
+## Ko-fi
+- [Ko-fi](https://ko-fi.com/beano999)
+
+---
+
 Feel free to explore my repositories and open an issue if you'd like to collaborate or ask questions! 😊
 
