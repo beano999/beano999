@@ -10,6 +10,7 @@ Hi! I'm Ben / Beano, I am a year two computer science student with a passion for
 
 
 - **Web Development**:
+- **IDE**: JetBrains WebStorm
 - **Frontend**: JavaScript, Vue, HTML, CSS, JSX/TSX
 - **Backend**: Node.js, Express.js
 - **Databases**: MySQL
@@ -19,9 +20,9 @@ Hi! I'm Ben / Beano, I am a year two computer science student with a passion for
 ---
 
 - **Minecraft Java Modding / Plug-Ins**:
-- **IDE**: IntelliJ
+- **IDE**: JetBrains IntelliJ IDEA
 - **NeoForge**
-- **Maven**
+- **Fabric**
 - **Paper**
 - **Spigot**
 - **Version Control**: Git, GitHub
