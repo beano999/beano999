@@ -2,7 +2,7 @@
 
 ### ✨ About Me:
 
-Hi! I'm Ben / Beano, I am a year three computer science student with a passion for all things software development. I recently have begun writing java mods and plugins for Minecraft and am a member of the [Project ReDev](https://www.youtube.com/watch?v=QuryJC0U8cM&ab_channel=ProjectReDev) developer Team!  Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
+Hi! I'm Ben / Beano, I am a third year computer science student with a passion for all things software development. I recently have begun writing java mods and plugins for Minecraft and am a member of the [Project ReDev](https://www.youtube.com/watch?v=QuryJC0U8cM&ab_channel=ProjectReDev) developer Team!  Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
 
 ---
 
