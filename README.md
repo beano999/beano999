@@ -2,7 +2,7 @@
 
 ### ✨ About Me:
 
-Hi! I'm Ben / Beano, I am a year two computer science student with a passion for frontend web development. I recently have begun writing java mods and plugins for Minecraft and am a member of the [Project ReDev](https://www.youtube.com/watch?v=QuryJC0U8cM&ab_channel=ProjectReDev) developer Team!  Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
+Hi! I'm Ben / Beano, I am a year three computer science student with a passion for all things software development. I recently have begun writing java mods and plugins for Minecraft and am a member of the [Project ReDev](https://www.youtube.com/watch?v=QuryJC0U8cM&ab_channel=ProjectReDev) developer Team!  Any questions or contract work feel free to message me on discord @beano.999 I am typically active. Thanks for reading!
 
 ---
 
@@ -10,17 +10,14 @@ Hi! I'm Ben / Beano, I am a year two computer science student with a passion for
 
 
 - **Web Development**:
-- **IDE**: JetBrains WebStorm
-- **Frontend**: JavaScript, Vue, HTML, CSS, JSX/TSX
-- **Backend**: Node.js, Express.js
-- **Databases**: MySQL
-- **XAMPP**
+- **Frontend**: JavaScript, Vue, HTML, CSS, JSX/TSX, XHTML, Tailwind CSS, Ionic
+- **Backend**: Node.js, Express.js, Spring Boot (Java)
+- **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
 ---
 
 - **Minecraft Java Modding / Plug-Ins**:
-- **IDE**: JetBrains IntelliJ IDEA
 - **NeoForge**
 - **Fabric**
 - **Paper**
